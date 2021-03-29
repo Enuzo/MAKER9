@@ -1,2 +1,2 @@
-# maker9-dicord-rules
-MAKER9 Discord Community Rules.
+# MAKER9 Project
+MAKER9 Community | Sites Developement.
